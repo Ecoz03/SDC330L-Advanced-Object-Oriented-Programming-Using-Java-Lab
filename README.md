@@ -55,4 +55,6 @@ This application serves to function as a "digital rolodex", where users can util
 - Currently CLI-only, could be extended with a GUI.
 ## Link to Project
 (to be included later)
+## Link to Video
+[Google Drive Link](https://drive.google.com/file/d/1oYb9ZAcbdpF_xKeRBOXyHIv1G-3jqisF/view?usp=sharing)
 
